@@ -92,8 +92,6 @@ function App() {
   </Carousel>
 
 
-
-
       <div className="site-card-wrapper">
     <Row gutter={16}>
       <Col span={8}>
@@ -112,7 +110,7 @@ function App() {
         </Card>
       </Col>
     </Row>
-  </div>,
+  </div>
 
     </div>
   );
